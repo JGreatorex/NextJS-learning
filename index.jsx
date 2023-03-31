@@ -5,7 +5,7 @@ function Header({ title }) {
 }
 
 function HomePage() {
-    const [likes, setLikes] = React.useState(0);
+    const [likes, setLikes] = useState(0);
 
 
     const names = ['Jamie Greatorex', 'James Lee', 'Joshua Serpis'];
@@ -28,5 +28,3 @@ function HomePage() {
         </div>
     )
 }
-
-ReactDOM.render(<HomePage />, app)

@@ -8,24 +8,21 @@
     <title>Document</title>
 </head>
 <body>
-    <div id="app"></div>
-    <script type="text/javascript">
+    <div id="app">
+
+        <!-- React libaries -->
+        <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+        <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+
+        <!-- Babel -->
+        <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    </div>
+    <script type="text/jsx">
         // Select the div element with 'app' id
         const app =document.getElementById("app");
 
-        // Creating a h1 element
-        const header = document.createElement('h1');
-
-        // Create a new text node for the H1 element
-        const headerContent = document.createTextNode(
-            'Header content',
-        );
-
-        // Append the text to the H1 element
-        header.appendChild(headerContent);
-
-        // Place the H1 element inside the div
-        app.appendChild(header);
+        ReactDOM.render(<h1>Header content</h1>, app);
     </script>
 </body>
 </html>

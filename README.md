@@ -8,3 +8,5 @@ Training available here: [https://nextjs.org/learn/foundations/about-nextjs](htt
   * **Complete** - 2023-03-31
 * [https://nextjs.org/learn/foundations/from-javascript-to-react/building-ui-with-components](https://nextjs.org/learn/foundations/from-javascript-to-react/building-ui-with-components)
   * **Complete** - 2023-03-31
+* [https://nextjs.org/learn/foundations/from-javascript-to-react/displaying-data-with-props](https://nextjs.org/learn/foundations/from-javascript-to-react/displaying-data-with-props)
+  * **Complete** - 2023-03-31

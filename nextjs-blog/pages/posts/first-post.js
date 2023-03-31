@@ -9,15 +9,7 @@ export default function FirstPost() {
                 <title>First post</title>
             </Head>
             <h1>First post</h1>
-            <h2>
-                <Link href="/">Back to home</Link>
-            </h2>
-
-            <Image src="/images/profile.jpg"
-                   alt="Jamie Greatorex"
-                   height={144}
-                   width={144}
-           />
+            <p>This is my first post on my blog run by NEXT.js!</p>
         </Layout>
     )
 }

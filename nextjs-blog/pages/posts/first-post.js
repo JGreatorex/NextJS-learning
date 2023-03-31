@@ -1,9 +1,10 @@
 import Image from 'next/image';
 import Link from "next/link";
 import Head from "next/head";
+import Layout from '../../components/layout';
 export default function FirstPost() {
     return (
-        <>
+        <Layout>
             <Head>
                 <title>First post</title>
             </Head>
@@ -17,6 +18,6 @@ export default function FirstPost() {
                    height={144}
                    width={144}
            />
-        </>
+        </Layout>
     )
 }

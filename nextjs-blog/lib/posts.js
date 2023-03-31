@@ -14,7 +14,7 @@ export function getSortedPostsData() {
 
         return {
             id,
-            ...matterResult.datam
+            ...matterResult.data,
         };
     });
 

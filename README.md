@@ -20,7 +20,15 @@ Training available here: [https://nextjs.org/learn/foundations/about-nextjs](htt
 ### CREATE YOUR FIRST APP
 * [https://nextjs.org/learn/basics/create-nextjs-app/setup](https://nextjs.org/learn/basics/create-nextjs-app/setup)
   * **Complete** - 2023-03-31
-  * [https://nextjs.org/learn/basics/assets-metadata-css/assets](https://nextjs.org/learn/basics/assets-metadata-css/assets)
-    * **Complete** - 2023-03-31
-  * [https://nextjs.org/learn/basics/assets-metadata-css/metadata](https://nextjs.org/learn/basics/assets-metadata-css/metadata)
-    * **Complete** - 2023-03-31
+* [https://nextjs.org/learn/basics/assets-metadata-css/assets](https://nextjs.org/learn/basics/assets-metadata-css/assets)
+  * **Complete** - 2023-03-31  
+* [https://nextjs.org/learn/basics/assets-metadata-css/metadata](https://nextjs.org/learn/basics/assets-metadata-css/metadata)
+  * **Complete** - 2023-03-31
+* [https://nextjs.org/learn/basics/assets-metadata-css/css-styling](https://nextjs.org/learn/basics/assets-metadata-css/css-styling)
+  * **Complete** - 2023-03-31
+* [https://nextjs.org/learn/basics/assets-metadata-css/layout-component](https://nextjs.org/learn/basics/assets-metadata-css/layout-component)
+  * **Complete** - 2023-03-31
+* [https://nextjs.org/learn/basics/assets-metadata-css/global-styles](https://nextjs.org/learn/basics/assets-metadata-css/global-styles)
+  * **Complete** - 2023-03-31
+* [https://nextjs.org/learn/basics/assets-metadata-css/polishing-layout](https://nextjs.org/learn/basics/assets-metadata-css/polishing-layout)
+  * **Complete** - 2023-03-31

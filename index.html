@@ -29,6 +29,10 @@
         function HomePage() {
             const names = ['Jamie Greatorex', 'James Lee', 'Joshua Serpis'];
 
+            function handleClick() {
+                console.log("increment like count")
+            }
+
             return (
                 <div>
                     {/* Nesting the Header component */}
@@ -38,6 +42,8 @@
                             <li key={name}>{name}</li>
                         ))}
                     </ul>
+
+                    <button onClick={handleClick}>Like</button>
                 </div>
             )
         }

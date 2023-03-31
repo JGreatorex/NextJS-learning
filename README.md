@@ -6,3 +6,5 @@ Training available here: [https://nextjs.org/learn/foundations/about-nextjs](htt
   * **Complete** - 2023-03-31
 * [https://nextjs.org/learn/foundations/from-javascript-to-react/getting-started-with-react](https://nextjs.org/learn/foundations/from-javascript-to-react/getting-started-with-react)
   * **Complete** - 2023-03-31
+* [https://nextjs.org/learn/foundations/from-javascript-to-react/building-ui-with-components](https://nextjs.org/learn/foundations/from-javascript-to-react/building-ui-with-components)
+  * **Complete** - 2023-03-31

@@ -4,7 +4,7 @@ function Header({ title }) {
     return <h1>{title ? title: "Default title"}</h1>;
 }
 
-function HomePage() {
+export default function HomePage() {
     const [likes, setLikes] = useState(0);
 
 
@@ -17,7 +17,7 @@ function HomePage() {
     return (
         <div>
             {/* Nesting the Header component */}
-            <Header title="React!"/>
+            <Header title="React!!"/>
             <ul>
                 {names.map((name) => (
                     <li key={name}>{name}</li>
@@ -26,5 +26,5 @@ function HomePage() {
 
             <button onClick={handleClick}>Like({likes})</button>
         </div>
-    )
+    );
 }

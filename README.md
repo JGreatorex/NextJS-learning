@@ -18,3 +18,5 @@ Training available here: [https://nextjs.org/learn/foundations/about-nextjs](htt
 * [https://nextjs.org/learn/foundations/how-nextjs-works/next-steps](https://nextjs.org/learn/foundations/how-nextjs-works/next-steps)
   * **Complete** - 2023-03-31
 ### CREATE YOUR FIRST APP
+* [https://nextjs.org/learn/basics/create-nextjs-app/setup](https://nextjs.org/learn/basics/create-nextjs-app/setup)
+  * **Complete** - 2023-03-31

@@ -22,14 +22,16 @@
         // Select the div element with 'app' id
         const app =document.getElementById("app")
 
-        function Header() {
-            return(<h1>Header content</h1>)
+        function Header({ title }) {
+            return <h1>{title ? title: "Default title"}</h1>;
         }
 
         function HomePage() {
             return (
                 <div>
                     {/* Nesting the Header component */}
+                    <Header title="React!"/>
+                    <Header title="Title 2"/>
                     <Header />
                 </div>
             )
